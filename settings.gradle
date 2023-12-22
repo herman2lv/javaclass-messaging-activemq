@@ -1,0 +1,4 @@
+rootProject.name = 'javaclass-messaging-activemq'
+include 'service-alpha'
+include 'service-bravo'
+include 'service-charlie'
