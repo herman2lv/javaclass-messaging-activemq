@@ -13,3 +13,10 @@ tasks you can find in readme.md on the respective branch.
 
 Download and install classic ActiveMQ of current release for major version 5.
 Run it on standard ports with default configuration
+
+## Task 2
+Implement synchronous (request-response) communication via JMS (ActiveMQ).
+
+Use temporary queue for receiving a response.
+
+![diagram](./task.png)
